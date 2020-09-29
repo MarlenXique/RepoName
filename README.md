@@ -5,7 +5,7 @@ fun
 or 
 humorous
 
-Blue
+Blue.  Nah I think is red
 is
 acting
 sus
